@@ -1,4 +1,4 @@
-title: Your awesome title
+title: Jamie
 author:
   name: GitHub User
   email: your-email@domain.com
@@ -54,7 +54,7 @@ minima:
 
 # Build settings
 theme: minima
-
+skin:pink
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
