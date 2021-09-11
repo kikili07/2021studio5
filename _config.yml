@@ -54,7 +54,7 @@ minima:
 
 # Build settings
 theme: minima
-skin:pink
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
