@@ -42,10 +42,33 @@ Moreover, it uses new technology to organically combine ordinary cement and indu
 
   [9e8381a7]: https://www.archdaily.cn/cn/782656/shao-jiao-de-xiao-wu-draa?ad_source=myarchdaily&ad_medium=bookmark-show&ad_content=current-user "Precedent"
 
-  Multifunctional furniture:
+` Multifunctional furniture`
 
-  - Chair
-  - Bed
-  - Kitchen
-  - Shower Room
-  - Range hood, solar water heater
+- Chair
+
+  ![Chair](/images/2021/09/t01379a70d6f71ed535.webp.jpg)
+
+  ![  Tiny chair](/images/2021/09/6aa9647ab12c6933b3a03d7f3600bb25.jpg)
+- Bed
+
+  ![Bed](/images/2021/09/21de7c075c74756d3e32727f54d7efd6f2d067af13b25-bDRDH6_fw658.jfif)
+
+  ![  Bed](/images/2021/09/微信图片_20210912193719.jpg)
+
+- Kitchen
+
+  ![Kitchen](/images/2021/09/微信图片_20210912193635.jpg)
+
+  ![Kitchen](/images/2021/09/微信图片_20210912193644.jpg)
+- Shower Room
+- Range hood, solar water heater
+
+`House includes`
+- Toilet
+- Kitchen
+- Activity space
+- Rest area
+
+`Appearance`
+
+Similar to standing capsule
