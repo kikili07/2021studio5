@@ -3,9 +3,7 @@ author: Li Yanqi kiki
   name: GitHub User
   email: 1129417@wku.edu.cn
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm kiki, a junior student in architecture major, and this website is the record of the studio work in 2021 Fall in Wenzhou-Kean university. Enjoy this website!
 
 show_excerpts: Ture # set to true to show excerpts on the homepage
 
