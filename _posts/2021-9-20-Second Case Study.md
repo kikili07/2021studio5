@@ -1,4 +1,4 @@
-After approaching inital designs of the tiny houseAbout the exterior, interior and material, I also did many other cases studies. 
+After approaching inital designs of the tiny house, I  did other cases studies to get more knowledge of the exterior, interior and material.
 
 the exterior, this architectural project “Pilotis in a Forest House” in Japan really interests me. 
 
