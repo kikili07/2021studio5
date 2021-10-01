@@ -69,10 +69,11 @@ Typical Owner: People who love nature
 
 `Photosphere`
 
-![Exterior Photosphere](https://user-images.githubusercontent.com/90487072/135542913-3c23153a-450c-4858-bd2f-690635a65249.jpg)
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.loli.net/2021/10/01/tgDbQisZX46A2dF.jpg&autoLoad=true"></iframe>
 
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.loli.net/2021/10/01/YdARuHazLJI9BUp.jpg&autoLoad=true"></iframe>
 
-![Interior Photosphere](https://user-images.githubusercontent.com/90487072/135543229-d3a013e8-2865-4636-a168-0323141df8db.jpg)
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.loli.net/2021/10/01/dtYPVkBwCi7mrgM.jpg&autoLoad=true"></iframe>
 
 
 `GIF`
