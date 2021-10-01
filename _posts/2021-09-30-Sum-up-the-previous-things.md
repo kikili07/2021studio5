@@ -78,7 +78,8 @@ Typical Owner: People who love nature
 
 `GIF`
 
-Google Classroom
+![GIF(2)](https://user-images.githubusercontent.com/90487072/135579782-893129df-52de-48f9-8e70-30ef32b2075d.gif)
+
 
 `Site Plan`
 
