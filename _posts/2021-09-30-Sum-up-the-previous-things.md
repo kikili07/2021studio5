@@ -105,6 +105,6 @@ Google Classroom
 
 
 `Precedent`
+<img width="1150" alt="Ｐrecedent" src="https://user-images.githubusercontent.com/90487072/135572172-dcc866e2-3bf9-4157-8834-f35166a8807f.png">
 
-Google Classroom
 
