@@ -1,6 +1,6 @@
 ![exterior photosphere](https://user-images.githubusercontent.com/90487022/135545006-c8a2e767-bcf3-491d-80f1-f63aa20c228a.jpg)
 
-https://i.ibb.co/92By5tZ/exterior-photosphere.jpg
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.ibb.co/92By5tZ/exterior-photosphere.jpg&autoLoad=true"></iframe>
 
 ![interior photosphere](https://user-images.githubusercontent.com/90487022/135545043-ea5d56f0-ef57-46b3-a856-65cb49405854.jpg)
 
