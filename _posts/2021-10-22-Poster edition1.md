@@ -10,4 +10,5 @@ I firstly made a simple structure model of the building.
 Then attached real texture onto the model
 ![structure](https://user-images.githubusercontent.com/90487022/139634932-02597e22-3ef3-49d5-88da-dbd7f54ffa04.jpg)
 
-
+I also added some structural details on the sections and a new plan at 1.6m eye level. (the only plan from last poster is at 3m level )
+![section plan](https://user-images.githubusercontent.com/90487022/139696527-35e8456b-1aab-4fde-8fcc-427145fe934f.jpg)
