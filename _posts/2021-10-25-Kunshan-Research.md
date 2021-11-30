@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kunshan Research"
+title: "Research. Kunshan"
 categories: Studio
 author:
 - Jamie
