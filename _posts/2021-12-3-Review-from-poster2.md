@@ -9,3 +9,5 @@ Here are the suggestions:
 3. Lack of details, add appropriate furniture and pedestrians to the buildings in the animation path.
 
 4. Lack of materials, add building materials, bubble materials and grass on the rendering.
+
+![Yanqi Li-08-1](https://user-images.githubusercontent.com/90487022/146376395-e4e05451-0a34-4587-b3d5-6ce377ee1024.jpg)
